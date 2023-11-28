@@ -113,6 +113,7 @@ Based on the charts above, the conclusions can be deduced as follows:
 ![Figure 14 Correlation.png](https://github.com/khvu0610/Heart-Attack-Analysis-Prediction-Dataset/blob/0df0b6234cf31fc4dc01d242e0337e88a6554958/Images/Figure%2014%20Correlation.png)
 
 Based on the charts above, the following conclusions can be derived:
+
 **1. Age and Cholesterol Levels**: There is a correlation between increasing age and increasing cholesterol levels. As individuals get older, their cholesterol levels tend to rise. However, it cannot be definitively concluded that higher cholesterol levels directly cause a higher risk of heart attack. The relationship between cholesterol levels and heart attack risk is complex and may be influenced by other factors.
 
 **2. Blood Pressure and Heart Attack Risk**: There is a clear association between an increase in blood pressure and a higher risk of heart attack. Elevated blood pressure is considered a significant risk factor for heart health, and individuals with high blood pressure are more prone to experiencing heart attacks.
@@ -188,15 +189,23 @@ Therefore, maintaining a healthy heart requires addressing not just age but also
 ### 6.3. User-friendly application for healthcare professionals and patients to assess heart attack risk:**
 
 Develop an intuitive and user-friendly application that can be accessed by both healthcare professionals and patients.
+
 Incorporate a simple interface for inputting relevant data, such as age, gender, medical history, and lifestyle information.
+
 Utilize secure data storage and privacy measures to protect sensitive patient information.
+
 Provide personalized risk assessments and recommendations based on the individual's profile and risk factors.
+
 Present the results in a clear and understandable format, accompanied by actionable steps for prevention and intervention.
 
 ### 6.4. Improved early detection and prevention of heart attacks, potentially saving lives:
 
 Implement targeted screening programs to identify individuals at high risk for heart attacks.
+
 Encourage regular health check-ups and screenings to monitor key risk factors and detect warning signs.
+
 Develop educational campaigns to increase awareness about heart attack symptoms, risk factors, and the importance of seeking medical attention promptly.
+
 Promote healthy lifestyle modifications, including proper nutrition, regular exercise, stress management, smoking cessation, and medication adherence.
+
 Collaborate with healthcare providers to ensure timely and appropriate interventions, such as medication management and surgical procedures, for high-risk individuals.
