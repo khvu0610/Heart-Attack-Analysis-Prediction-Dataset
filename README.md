@@ -69,11 +69,17 @@ The project will encompass the following key components:
 ![Figure 6 Distribution of heart rate around patients.png](https://github.com/khvu0610/Heart-Attack-Analysis-Prediction-Dataset/blob/0df0b6234cf31fc4dc01d242e0337e88a6554958/Images/Figure%206%20Distribution%20of%20heart%20rate%20around%20patients.png)
 
 From these charts above, the following conclusions can be drawn:
+
 **1. Age Distribution**: The majority of patients in the dataset fall within the age range of 50 to 60. Among them, the highest number of patients (maximum count) have an age of 56. This suggests that this particular age group may be more prone to the condition or health issue being studied.
+
 **2. Gender Distribution**: Approximately 68.2% (207) of the patients are male, while 31.8% (96) are female. This indicates a higher representation of male patients in the dataset compared to females. It may imply a gender-related difference in the occurrence or diagnosis of the condition under investigation.
+
 **3. Chest Pain Type**: The most common type of chest pain experienced by the patients is categorized as "typical angina" (Value 1 Chest Pain). This finding suggests that this specific type of chest pain is prevalent among the patients in the dataset.
+
 **4. Blood Pressure**: The majority of patients have blood pressure readings falling between 130 and 140. This range may represent the typical blood pressure range for the population being analyzed or indicate a correlation between the condition and blood pressure levels within this range.
+
 **5. Cholesterol Levels**: Most patients in the dataset have cholesterol levels ranging from 200 to 250. This range could be considered normal or expected for the population under study or indicate a potential association between the condition and cholesterol levels within this range.
+
 **6. Heart Rate**: The majority of patients have heart rates ranging from 155 to 165. This range may represent the typical heart rate range for the population being analyzed or suggest a correlation between the condition and heart rates within this range.
 
 ### 4.2. Bi-Variate Analysis:
@@ -87,9 +93,13 @@ From these charts above, the following conclusions can be drawn:
 ![Figure 10 Heart rate with age.png](https://github.com/khvu0610/Heart-Attack-Analysis-Prediction-Dataset/blob/0df0b6234cf31fc4dc01d242e0337e88a6554958/Images/Figure%2010%20Heart%20rate%20with%20age.png)
 
 Based on the charts above, the conclusions can be deduced as follows:
+
 **1. Age and Heart Attack**: There is no strong relationship between age and the likelihood of a heart attack. This means that we cannot definitively say that as age increases, the chances of having a heart attack will be higher or lower. Other factors may play a more significant role in determining the risk of a heart attack.
+
 **2. Age and Blood Pressure**: There is a high chance of blood pressure increasing with age. As individuals get older, it is more likely that their blood pressure levels will rise. This suggests that age can be a contributing factor to higher blood pressure readings.
+
 **3. Age and Cholesterol Levels**: There is a high chance of cholesterol levels increasing with age. As individuals age, their cholesterol levels tend to rise. This implies that age can be a factor in the increase of cholesterol levels in the body.
+
 **4. Age and Heart Rate**: There is a high chance of heart rate increasing with age. As individuals get older, their heart rates tend to rise. This indicates that age can influence an increase in heart rate over time.
 
 ### 4.3. Multi-Variate Analysis:
@@ -104,7 +114,9 @@ Based on the charts above, the conclusions can be deduced as follows:
 
 Based on the charts above, the following conclusions can be derived:
 **1. Age and Cholesterol Levels**: There is a correlation between increasing age and increasing cholesterol levels. As individuals get older, their cholesterol levels tend to rise. However, it cannot be definitively concluded that higher cholesterol levels directly cause a higher risk of heart attack. The relationship between cholesterol levels and heart attack risk is complex and may be influenced by other factors.
+
 **2. Blood Pressure and Heart Attack Risk**: There is a clear association between an increase in blood pressure and a higher risk of heart attack. Elevated blood pressure is considered a significant risk factor for heart health, and individuals with high blood pressure are more prone to experiencing heart attacks.
+
 **3. Heart Rate and Heart Attack Risk**: Individuals with a high heart rate have an increased risk of heart attack. A higher heart rate can indicate an increased workload on the heart, potentially leading to cardiovascular complications.
 
 ## 5. Modelling
@@ -143,19 +155,30 @@ After evaluating various machine learning algorithms, I opted for K-Nearest Neig
 
 ### 6.2. Identification of critical risk factors and their impact on heart attack occurrence.
 While age alone may not directly increase the risk of heart attack, several other factors, such as heart rate, blood pressure, and cholesterol levels, play a significant role.
+
 **Elevated heart rate:** An increased heart rate can put additional strain on the cardiovascular system, making it more susceptible to complications like heart attacks.
+
 **High blood pressure:** Sustained high blood pressure damages the blood vessels and arteries, increasing the risk of plaque buildup and potential blockages that can lead to heart attacks.
+
 **Elevated cholesterol levels:** High cholesterol levels, particularly LDL (low-density lipoprotein), contribute to the formation of plaque in the arteries, narrowing them and increasing the risk of blood clots and heart attacks.
+
 Therefore, maintaining a healthy heart requires addressing not just age but also other modifiable factors like heart rate, blood pressure, and cholesterol levels. Regular check-ups and lifestyle modifications can help manage these risk factors and promote overall heart health.
 
 **The suggestions to avoid heart disease:**
 **Maintain a Healthy Weight:** Obesity is a significant risk factor for heart disease, as excessive weight puts undue strain on the heart. Strive to maintain a healthy body mass index (BMI) within the range of 18.5 to 24.9.
+
 **Adopt a Heart-Healthy Diet:** Prioritize a diet rich in nutrient-dense foods, including fruits, vegetables, whole grains, and lean protein sources. Minimize consumption of saturated and trans fats, cholesterol, and sodium.
+
 **Engage in Regular Exercise:** Aim for at least 30 minutes of moderate-intensity exercise most days of the week. Regular physical activity strengthens the heart, enhances blood pressure control, and promotes weight management, all of which contribute to heart health.
+
 **Eliminate Smoking:** Smoking is a leading risk factor for cardiovascular diseases. Cessation of smoking is a crucial step towards improving overall health and reducing the risk of heart disease.
+
 **Effectively Manage Stress:** Chronic stress can elevate blood pressure and heart rate, contributing to heart disease progression. Implement healthy stress management techniques, such as yoga, meditation, or spending time in nature.
+
 **Maintain Control of Blood Pressure, Cholesterol, and Blood Sugar:** Elevated blood pressure, high cholesterol levels, and diabetes are well-established risk factors for heart disease. Collaborate closely with your healthcare provider to manage these conditions effectively.
+
 **Prioritize Regular Check-ups:** Schedule regular consultations with your healthcare provider to monitor your heart health and assess risk factors. Early detection and treatment of heart disease can significantly improve outcomes.
+
 **Additional Recommendations:**
 - Moderate alcohol consumption.
 - Ensure adequate sleep.
